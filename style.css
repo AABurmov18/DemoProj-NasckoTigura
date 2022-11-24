@@ -1,0 +1,15 @@
+
+body {
+    background: url(img/background.jpg);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 60%;
+    background-color: #fff;
+    padding: 7.5em;
+    border-radius: 30px;
+}
